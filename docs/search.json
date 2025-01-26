@@ -1,30 +1,10 @@
 [
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Anthony Luna",
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
     "section": "",
-    "text": "Bren School of Environmental Science & Management - University of California, Santa Barbara (UCSB)\n\nSpecializations: Eco-Entrepreneurship and Pollution Prevention and Remediation.\nFellowships: Eco-E Research Fellowship ($2,500) & Eco-E Internship Fellowship ($1,500).\n\n\n\n\nBachelor of Science with Honors in Mathematics (Upper Second-Class Honors)",
-    "crumbs": [
-      "Anthony Luna"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Anthony",
-    "section": "",
-    "text": "Bren School of Environmental Science & Management - University of California, Santa Barbara (UCSB)\n\nSpecializations: Eco-Entrepreneurship and Pollution Prevention and Remediation.\nFellowships: Eco-E Research Fellowship ($2,500) & Eco-E Internship Fellowship ($1,500).\n\n\n\n\nBachelor of Science with Honors in Mathematics (Upper Second-Class Honors)",
-    "crumbs": [
-      "About Anthony"
-    ]
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "This is a post with executable code.\nprint(\"Hello, World!\")"
   },
   {
     "objectID": "index.html",
@@ -34,117 +14,52 @@
     "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 23, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 20, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Anthony",
     "section": "",
-    "text": "This is a post with executable code.\nprint(\"Hello, World!\")"
-  },
-  {
-    "objectID": "hello.html",
-    "href": "hello.html",
-    "title": "Quarto Basics",
-    "section": "",
-    "text": "For a demonstration of a line plot on a polar axis, see Figure 1.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\n\n\n\nFigure 1: A line plot on a polar axis"
-  },
-  {
-    "objectID": "resume.html#master-of-environmental-science-and-management-june-2021",
-    "href": "resume.html#master-of-environmental-science-and-management-june-2021",
-    "title": "Anthony Luna",
-    "section": "",
-    "text": "Bren School of Environmental Science & Management - University of California, Santa Barbara (UCSB)\n\nSpecializations: Eco-Entrepreneurship and Pollution Prevention and Remediation.\nFellowships: Eco-E Research Fellowship ($2,500) & Eco-E Internship Fellowship ($1,500).",
-    "crumbs": [
-      "Anthony Luna"
-    ]
-  },
-  {
-    "objectID": "resume.html#university-of-kent-canterbury-uk-2014",
-    "href": "resume.html#university-of-kent-canterbury-uk-2014",
-    "title": "Anthony Luna",
-    "section": "",
-    "text": "Bachelor of Science with Honors in Mathematics (Upper Second-Class Honors)",
-    "crumbs": [
-      "Anthony Luna"
-    ]
-  },
-  {
-    "objectID": "resume.html#abound-food-care-remote-0224-present",
-    "href": "resume.html#abound-food-care-remote-0224-present",
-    "title": "Anthony Luna",
-    "section": "Abound Food Care, Remote (02/24 – Present)",
-    "text": "Abound Food Care, Remote (02/24 – Present)\nTechnology Consultant, Outreach and Inspections Program\n\nLed planning, design, and implementation of collaborative tool built using low-code platform Airtable.\nConducted in-depth user interviews with 7 employees to create user story map and feature release plan.",
-    "crumbs": [
-      "Anthony Luna"
-    ]
-  },
-  {
-    "objectID": "resume.html#routeware-global-remote-721-present",
-    "href": "resume.html#routeware-global-remote-721-present",
-    "title": "Anthony Luna",
-    "section": "Routeware Global, Remote (7/21 – Present)",
-    "text": "Routeware Global, Remote (7/21 – Present)\nSenior Software Engineer, Engagement Community (4/23 – Present)\n\nLed planning and implementation effort of Recyclist and Routeware product engineering team integration.\nCollaborated with stakeholders from many departments to create domain driven design documentation.\nWorked closely with Engagement Community Director to develop architectural designs and roadmap.\n\nLead Product Developer, Engineering Department (12/22 – 4/23)\n\nGrew, trained, and mentored a team of three junior engineers, who have all subsequently been promoted.\nRedesigned features to improve performance and accommodate changes to our software development kit.\nDesigned new features that minimized reliance on proprietary systems, enabled flexibility and long-term reliability, and maximized scalability and maintainability.\nImplemented deployment communication framework and QA process reducing production bugs by 90%.\n\nProduct Engineer, Engineering Department (7/21 – 12/22)\n\nWorked closely with senior leadership on development and deployment of features to accommodate complex recordkeeping and reporting requirements of SB 1383, AB 1826, and AB 341.\nServed as subject matter expert of Theory of Change development in B-Corp certification working group.",
-    "crumbs": [
-      "Anthony Luna"
-    ]
-  },
-  {
-    "objectID": "resume.html#cope-health-solutions-los-angeles-ca-new-york-ny-916-118",
-    "href": "resume.html#cope-health-solutions-los-angeles-ca-new-york-ny-916-118",
-    "title": "Anthony Luna",
-    "section": "COPE Health Solutions, Los Angeles, CA | New York, NY (9/16 – 1/18)",
-    "text": "COPE Health Solutions, Los Angeles, CA | New York, NY (9/16 – 1/18)\nBusiness Analyst, Data and Analytics Team\n\nDeveloped T-SQL Data QA process for population health Tableau dashboard that consolidated 4 different insurance claims data formats with over 2 million rows of monthly data covering over 150k patients.\nDesigned and compiled source of truth database containing information from 20+ regulatory sources which was used to drive analytics across the company.\nCoordinated with subject matter experts and users to define KPIs for internal and client facing analytics.",
-    "crumbs": [
-      "Anthony Luna"
-    ]
+    "text": "Bren School of Environmental Science & Management - University of California, Santa Barbara (UCSB)\n\nSpecializations: Eco-Entrepreneurship and Pollution Prevention and Remediation.\nFellowships: Eco-E Research Fellowship ($2,500) & Eco-E Internship Fellowship ($1,500).\n\n\n\n\nBachelor of Science with Honors in Mathematics (Upper Second-Class Honors)"
   },
   {
     "objectID": "about.html#master-of-environmental-science-and-management-june-2021",
     "href": "about.html#master-of-environmental-science-and-management-june-2021",
     "title": "About Anthony",
     "section": "",
-    "text": "Bren School of Environmental Science & Management - University of California, Santa Barbara (UCSB)\n\nSpecializations: Eco-Entrepreneurship and Pollution Prevention and Remediation.\nFellowships: Eco-E Research Fellowship ($2,500) & Eco-E Internship Fellowship ($1,500).",
-    "crumbs": [
-      "About Anthony"
-    ]
+    "text": "Bren School of Environmental Science & Management - University of California, Santa Barbara (UCSB)\n\nSpecializations: Eco-Entrepreneurship and Pollution Prevention and Remediation.\nFellowships: Eco-E Research Fellowship ($2,500) & Eco-E Internship Fellowship ($1,500)."
   },
   {
     "objectID": "about.html#university-of-kent-canterbury-uk-2014",
     "href": "about.html#university-of-kent-canterbury-uk-2014",
     "title": "About Anthony",
     "section": "",
-    "text": "Bachelor of Science with Honors in Mathematics (Upper Second-Class Honors)",
-    "crumbs": [
-      "About Anthony"
-    ]
+    "text": "Bachelor of Science with Honors in Mathematics (Upper Second-Class Honors)"
   },
   {
     "objectID": "about.html#abound-food-care-remote-0224-present",
     "href": "about.html#abound-food-care-remote-0224-present",
     "title": "About Anthony",
     "section": "Abound Food Care, Remote (02/24 – Present)",
-    "text": "Abound Food Care, Remote (02/24 – Present)\nTechnology Consultant, Outreach and Inspections Program\n\nLed planning, design, and implementation of collaborative tool built using low-code platform Airtable.\nConducted in-depth user interviews with 7 employees to create user story map and feature release plan.",
-    "crumbs": [
-      "About Anthony"
-    ]
+    "text": "Abound Food Care, Remote (02/24 – Present)\nTechnology Consultant, Outreach and Inspections Program\n\nLed planning, design, and implementation of collaborative tool built using low-code platform Airtable.\nConducted in-depth user interviews with 7 employees to create user story map and feature release plan."
   },
   {
     "objectID": "about.html#routeware-global-remote-721-present",
     "href": "about.html#routeware-global-remote-721-present",
     "title": "About Anthony",
     "section": "Routeware Global, Remote (7/21 – Present)",
-    "text": "Routeware Global, Remote (7/21 – Present)\nSenior Software Engineer, Engagement Community (4/23 – Present)\n\nLed planning and implementation effort of Recyclist and Routeware product engineering team integration.\nCollaborated with stakeholders from many departments to create domain driven design documentation.\nWorked closely with Engagement Community Director to develop architectural designs and roadmap.\n\nLead Product Developer, Engineering Department (12/22 – 4/23)\n\nGrew, trained, and mentored a team of three junior engineers, who have all subsequently been promoted.\nRedesigned features to improve performance and accommodate changes to our software development kit.\nDesigned new features that minimized reliance on proprietary systems, enabled flexibility and long-term reliability, and maximized scalability and maintainability.\nImplemented deployment communication framework and QA process reducing production bugs by 90%.\n\nProduct Engineer, Engineering Department (7/21 – 12/22)\n\nWorked closely with senior leadership on development and deployment of features to accommodate complex recordkeeping and reporting requirements of SB 1383, AB 1826, and AB 341.\nServed as subject matter expert of Theory of Change development in B-Corp certification working group.",
-    "crumbs": [
-      "About Anthony"
-    ]
+    "text": "Routeware Global, Remote (7/21 – Present)\nSenior Software Engineer, Engagement Community (4/23 – Present)\n\nLed planning and implementation effort of Recyclist and Routeware product engineering team integration.\nCollaborated with stakeholders from many departments to create domain driven design documentation.\nWorked closely with Engagement Community Director to develop architectural designs and roadmap.\n\nLead Product Developer, Engineering Department (12/22 – 4/23)\n\nGrew, trained, and mentored a team of three junior engineers, who have all subsequently been promoted.\nRedesigned features to improve performance and accommodate changes to our software development kit.\nDesigned new features that minimized reliance on proprietary systems, enabled flexibility and long-term reliability, and maximized scalability and maintainability.\nImplemented deployment communication framework and QA process reducing production bugs by 90%.\n\nProduct Engineer, Engineering Department (7/21 – 12/22)\n\nWorked closely with senior leadership on development and deployment of features to accommodate complex recordkeeping and reporting requirements of SB 1383, AB 1826, and AB 341.\nServed as subject matter expert of Theory of Change development in B-Corp certification working group."
   },
   {
     "objectID": "about.html#cope-health-solutions-los-angeles-ca-new-york-ny-916-118",
     "href": "about.html#cope-health-solutions-los-angeles-ca-new-york-ny-916-118",
     "title": "About Anthony",
     "section": "COPE Health Solutions, Los Angeles, CA | New York, NY (9/16 – 1/18)",
-    "text": "COPE Health Solutions, Los Angeles, CA | New York, NY (9/16 – 1/18)\nBusiness Analyst, Data and Analytics Team\n\nDeveloped T-SQL Data QA process for population health Tableau dashboard that consolidated 4 different insurance claims data formats with over 2 million rows of monthly data covering over 150k patients.\nDesigned and compiled source of truth database containing information from 20+ regulatory sources which was used to drive analytics across the company.\nCoordinated with subject matter experts and users to define KPIs for internal and client facing analytics.",
-    "crumbs": [
-      "About Anthony"
-    ]
+    "text": "COPE Health Solutions, Los Angeles, CA | New York, NY (9/16 – 1/18)\nBusiness Analyst, Data and Analytics Team\n\nDeveloped T-SQL Data QA process for population health Tableau dashboard that consolidated 4 different insurance claims data formats with over 2 million rows of monthly data covering over 150k patients.\nDesigned and compiled source of truth database containing information from 20+ regulatory sources which was used to drive analytics across the company.\nCoordinated with subject matter experts and users to define KPIs for internal and client facing analytics."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]
