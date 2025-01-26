@@ -3,18 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "test"
+  title: "The blog of Anthony Luna"
+  search:
+    location: navbar
   navbar:
+    pinned: true
+    background: white
     right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/
+      - text: "About Anthony"
+        href: about.qmd
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
+    page-layout: article
+    include-in-header: 
+      - header.html
+    css: styles.scss
 
 
 

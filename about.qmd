@@ -1,13 +1,70 @@
 ---
-title: "About"
-image: profile.jpg
+title: "About Anthony"
 about:
-  template: jolla
-  links:
-    - icon: github
-      text: Github
-      href: https://github.com
-
+  template: solana
+page-layout: full
 ---
 
-About this blog
+
+# Education
+
+## Master of Environmental Science and Management (June 2021)
+**Bren School of Environmental Science & Management - University of California, Santa Barbara (UCSB)**
+
+- **Specializations:** Eco-Entrepreneurship and Pollution Prevention and Remediation.
+- **Fellowships:** Eco-E Research Fellowship ($2,500) & Eco-E Internship Fellowship ($1,500).
+
+## University of Kent, Canterbury, UK (2014)
+**Bachelor of Science with Honors in Mathematics** (Upper Second-Class Honors)
+
+# Master's Eco-Entrepreneurship Project
+
+**Data Manager - Rubbish, Bren School, UCSB (3/20 -- 6/21)**
+
+- Developed a social enterprise that incentivized food waste reduction through a pay-by-weight billing model.
+- Conducted and synthesized over 70 interviews with food system stakeholders driving our business strategy.
+- Co-authored 3 literature reviews and 5 technical briefs on environmental impacts of different resource recovery strategies; green supply chain logistics; and fertilization and carbon sequestration in agriculture.
+- Designed and implemented a bilingual survey with Qualtrics and R that studied pro-environmental behavior and customer preferences to identify new customer behavior change opportunities.
+- Designed and managed a carbon footprint reduction strategy for a small grocery store using real utility data.
+
+# Pollution Prevention and Technology Experience
+
+## Abound Food Care, Remote (02/24 -- Present)
+**Technology Consultant, Outreach and Inspections Program**
+
+- Led planning, design, and implementation of collaborative tool built using low-code platform Airtable.
+- Conducted in-depth user interviews with 7 employees to create user story map and feature release plan.
+
+## Routeware Global, Remote (7/21 -- Present)
+**Senior Software Engineer, Engagement Community (4/23 -- Present)**
+
+- Led planning and implementation effort of Recyclist and Routeware product engineering team integration.
+- Collaborated with stakeholders from many departments to create domain driven design documentation.
+- Worked closely with Engagement Community Director to develop architectural designs and roadmap.
+
+**Lead Product Developer, Engineering Department (12/22 -- 4/23)**
+
+- Grew, trained, and mentored a team of three junior engineers, who have all subsequently been promoted.
+- Redesigned features to improve performance and accommodate changes to our software development kit.
+- Designed new features that minimized reliance on proprietary systems, enabled flexibility and long-term reliability, and maximized scalability and maintainability.
+- Implemented deployment communication framework and QA process reducing production bugs by 90%.
+
+**Product Engineer, Engineering Department (7/21 -- 12/22)**
+
+- Worked closely with senior leadership on development and deployment of features to accommodate complex recordkeeping and reporting requirements of SB 1383, AB 1826, and AB 341.
+- Served as subject matter expert of Theory of Change development in B-Corp certification working group.
+
+# Additional Technology Experience
+
+## COPE Health Solutions, Los Angeles, CA | New York, NY (9/16 -- 1/18)
+**Business Analyst, Data and Analytics Team**
+
+- Developed T-SQL Data QA process for population health Tableau dashboard that consolidated 4 different insurance claims data formats with over 2 million rows of monthly data covering over 150k patients.
+- Designed and compiled source of truth database containing information from 20+ regulatory sources which was used to drive analytics across the company.
+- Coordinated with subject matter experts and users to define KPIs for internal and client facing analytics.
+
+# Skills and Activities
+
+- **Computer:** TypeScript, Zod, Domain Driven Design, Microservices Architecture, Zoho Creator, Excel, QGIS, Tableau, Microsoft SQL Server, T-SQL, SQLite, PostgreSQL, Docker, Git, R, Python, Bash, HTML, and CSS.
+- **Language:** Spanish (Working Knowledge) and French (Conversational).
+- **Activities:** President of the Circus Society at the University of Kent (2013--14). 

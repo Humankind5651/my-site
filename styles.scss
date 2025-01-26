@@ -1,10 +1,24 @@
 /* css styles */
+$font-family-sans-serif:      "Fira Code", serif;
+$font-family-monospace:       "Fira Code", monospace;
+
+$web-font-path: "https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap" !default;
+@if $web-font-path {
+  @import url($web-font-path);
+}
 
 /* Set the background color to white for the entire page */
 body {
     background-color: #ffffff;
     color: #333333; /* Dark grey text for contrast */
     font-family: "Fira Code", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.metadata {
+    font-family: "Fira Code", serif !important;
     font-optical-sizing: auto;
     font-weight: 300;
     font-style: normal;
