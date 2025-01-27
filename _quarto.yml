@@ -14,10 +14,11 @@ website:
         href: about.qmd
 format:
   html:
+    mainfont: "Fira Code"
+    monofont: "Fira Code"
     page-layout: article
     include-in-header: 
       - header.html
     css: styles.scss
-
 
 
