@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "The blog of Anthony Luna"
+  title: "Anthony Luna"
   search:
     location: navbar
   navbar:

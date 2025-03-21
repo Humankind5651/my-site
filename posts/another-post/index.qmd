@@ -1,0 +1,9 @@
+---
+title: "Another post"
+author: "Anthony Luna"
+date: "2025-01-23"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+Is it that easy?
